@@ -66,7 +66,7 @@ public class Nodos {
     public static void main(String[] args) {
         // TODO code application logic here
         Nodos nd = new Nodos();
-		String alfabeto = "ababbb";
+		String alfabeto = "ababbab";
 		cadena = alfabeto.toCharArray();
 		
 		nd.inicio();
